@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @alexdcodes
-- 🌱 I love Open Source things, Animals, Snowboarding, and I guess typing..
+- 👋 Hello, I am Alex  
+- :innocent: I love learning about new technologies, animals, snowboarding, and I guess typing, if that counts as a life style choice ;) 
 - 💞️ I am currently living in the terminal, feel free to pipe me to /usr/bin.
