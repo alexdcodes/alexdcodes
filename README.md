@@ -7,7 +7,7 @@
 - :iphone: Contact me if you want to work on anything or access to private repos/projects (colab work)
 
 ..
-.Cheers 416c657844636f646573. 
+... 416c657844636f646573. 
 
 <3>3 :penguin: :computer: :iphone: :see_no_evil: 🙉 <3>3
 
