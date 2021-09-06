@@ -1,6 +1,5 @@
 ## 👋 Alex D Codes [ github'd since 2016 - present ] 
-- :innocent: I love learning about new technologies, animals, snowboarding, and I guess typing, if that counts as a life style ;) 
-- Love inspiring people to use open source software, github, developing things. What's your excuse? :D ?
+- :innocent: I love, learning about new technologies, animals, snowboarding, and I guess typing, if that counts as a life style ;) inspiring people to use open source software, github, developing things. What's your excuse? :D ? 
 - 💞️ I am currently living in the terminal, feel free to pipe me to /usr/bin.
 - :iphone: Contact me if you want to work on anything.
 
