@@ -3,4 +3,4 @@
 - 💞️ I am currently living in the terminal, feel free to pipe me to /usr/bin.
 - :iphone: Contact me if you want to work on anything.
 
-<3 :penguin: :computer: :iphone:
+<3>3 :penguin: :computer: :iphone: <3>3
