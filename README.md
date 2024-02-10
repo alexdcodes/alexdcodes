@@ -9,7 +9,10 @@
 - 
 - Contact me if you want to work on anything or access to private repos/projects (colab work)
 
-- Will provide contact IM Message Details shortly, and am yet to run this by ChatGPT for a spell check.
+To do list: 
+
+- Will provide contact IM Message Details shortly,
+- run this by ChatGPT for a spell check.
 
 ..
 
