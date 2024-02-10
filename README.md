@@ -2,7 +2,7 @@
 
 if you found this page, i do not know what error code to provide, maybe 360? HTTP 360 
 
-- I love, learning about new technologies, playing with german shepherds, belgium malinos, dobermans..(Shudzhund and IPO3 Training)
+- I love, learning about new technologies, listening 2 all kinds of music, playing around with sound, used to train german shepherds, belgium malinos, dobermans..(Shudzhund and IPO3 Training)
 - recently I have gotten my own Kitten/Cat :) so this is a new adventure. (keeps me busy)  
 - dealing with absurtity && the nihalistic view of life while typing all the time in between.
 -  Inspiring people to use open source software, develop things. What's your excuse? hmmm 
