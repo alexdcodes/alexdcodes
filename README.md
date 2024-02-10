@@ -7,5 +7,5 @@
 
 ..
 
-<3>3 :penguin: :computer: :iphone: :see_no_evil: 🙉 <3>3
+:penguin: :computer: :iphone: :see_no_evil: 🙉 
 
