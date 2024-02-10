@@ -1,4 +1,4 @@
-## Alex Diker Codes - 2016 - 2024 / present 
+## Alex Diker Codes - first login date 2016 
 
 if you found this page, i do not know what error code to provide, maybe 360? HTTP 360 
 
