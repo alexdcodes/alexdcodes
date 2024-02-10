@@ -1,5 +1,7 @@
 ## Alex Diker Codes - 2016 - 2024 / present 
 
+if you found this page, i do not know what error code to provide, maybe 360? HTTP 360 
+
 - I love, learning about new technologies, playing with german shepherds, belgium malinos, dobermans..(Shudzhund and IPO3 Training)
 - recently I have gotten my own Kitten/Cat :) so this is a new adventure. (keeps me busy)  
 - dealing with the absurtity && the nihalistic view of life while typing all the time in between.
