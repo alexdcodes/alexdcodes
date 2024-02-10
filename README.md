@@ -1,7 +1,5 @@
 ## Alex Diker Codes - 2016 - 2024 
 
-Completed GBC George Brown College Casa Loma Campus T127
-
 - I love, learning about new technologies, playing with german shepherds, belgium malinos, dobermans..(Shudzhund and IPO3 Training)
 - nowwwwww.....I have my own Kitten/Cat :) so this is a new adventure. 
 - dealing with absurtity and the nihalistic view of life while typing all the time in between. Inspiring people to use open source software, develop things. What's your excuse? hmmm 
@@ -14,5 +12,4 @@ Completed GBC George Brown College Casa Loma Campus T127
 
 ..
 
-:penguin: :computer: :iphone: :see_no_evil: 🙉 
-
+Alex
