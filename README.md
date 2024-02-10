@@ -1,4 +1,4 @@
-## 👋 Alex Diker Codes - githubbing since 2016 to present 
+## 👋 Alex Diker Codes - 2016 - 2024 
 
 Completed GBC George Brown College Casa Loma Campus T127
 
