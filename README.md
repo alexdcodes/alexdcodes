@@ -1,4 +1,4 @@
-## Alex Diker Codes - first login date 2016 
+## Alex Diker Codes 
 
 if you found this page, i do not know what error code to provide, maybe 360? HTTP 360 
 
@@ -6,7 +6,7 @@ if you found this page, i do not know what error code to provide, maybe 360? HTT
 - recently I have gotten my own Kitten/Cat :) so this is a new adventure. (keeps me busy)
 - I speak English and Russian, but love learning new languages. 
 - dealing with absurtity && the nihalistic view of life while typing all the time in between.
--  Inspiring people to use open source software, develop things.
+- Inspiring people to use open source software, develop things.
 - I am currently living in the terminal, feel free to pipe me to /usr/bin with a cronjob, or add me to .bashrc, to keep me running. 
 - Used to be a Red Star OS Kernel Developer, but Kim and I had a falling out like Eminem. lol, i do like to make jokes about my self.
 - 
@@ -14,7 +14,7 @@ if you found this page, i do not know what error code to provide, maybe 360? HTT
 
 To do list: 
 
-- run this by ChatGPT for a spell check.
+- run this by ChatGPT for a spell check, what else is automation good for these days?
 - make a dedicated read me for my cat since he does not like windows/winblows ME +
 - clean up /home like everyday
 - travel someday on a vacation, only have once 
