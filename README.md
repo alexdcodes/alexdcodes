@@ -17,9 +17,10 @@ To do list:
 - run this by ChatGPT for a spell check, what else is automation good for these days?
 - make a dedicated read me for my cat since he does not like windows/winblows ME +
 - clean up /home like everyday
-- travel someday on a vacation, only have once 
+- travel someday on a vacation, only have once...
 
 ..
 ![baybi](https://github.com/alexdcodes/alexdcodes/assets/23444429/9c65dd66-72c7-4bc0-a7f9-19a5aa27370c)
 
 Alex Diker
+https://mstdn.ca/@diker 
