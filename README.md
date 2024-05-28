@@ -23,4 +23,6 @@ To do list:
 ![baybi](https://github.com/alexdcodes/alexdcodes/assets/23444429/9c65dd66-72c7-4bc0-a7f9-19a5aa27370c)
 
 Alex Diker
+
+anti-social links:
 https://mstdn.ca/@diker 
