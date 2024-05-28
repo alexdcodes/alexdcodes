@@ -24,5 +24,4 @@ To do list:
 
 Alex Diker
 
-anti-social links:
 https://mstdn.ca/@diker 
