@@ -4,7 +4,7 @@ if you found this page, i do not know what error code to provide, maybe 360? HTT
 
 - I love, learning about new technologies, listening 2 all kinds of music, playing around with sound, used to train german shepherds, belgium malinos, dobermans..(Shudzhund and IPO3 Training)
 - recently got a cat :) so this is a new adventure.
-- I speak English and Russian, but love learning new languages. 
+- Speaking English and Russian, love learning new languages. 
 - Dealing with absurtity && the existential view of life while typing all the time in between.
 - Inspiring people to use open source software, develop things.
 - I am currently living in the terminal, feel free to pipe me to /usr/bin with a cronjob, or add me to .bashrc, to keep me running. 
