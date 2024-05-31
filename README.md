@@ -3,7 +3,7 @@
 if you found this page, i do not know what error code to provide, maybe 360? HTTP 360 
 
 - I love, learning about new technologies, listening 2 all kinds of music, playing around with sound, used to train german shepherds, belgium malinos, dobermans..(Shudzhund and IPO3 Training)
-- recently gotten Kitten/Cat :) so this is a new adventure.
+- recently got a cat :) so this is a new adventure.
 - I speak English and Russian, but love learning new languages. 
 - Dealing with absurtity && the existential view of life while typing all the time in between.
 - Inspiring people to use open source software, develop things.
