@@ -1,5 +1,7 @@
 ## Alex Diker  
 
+![](https://komarev.com/ghpvc/?alexdcodes)
+
 if you found this page, i do not know what error code to provide, maybe 360? HTTP 360 
 
 - I love, learning about new technologies, listening 2 all kinds of music, playing around with sound, used to train german shepherds, belgium malinos, dobermans..(Shudzhund and IPO3 Training)
