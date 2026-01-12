@@ -43,3 +43,4 @@ if you found this page, i do not know what error code to provide, maybe 360? HTT
 Alex Diker
 
 https://mstdn.ca/@diker 
+https://linkedin.com/in/alexdiker
