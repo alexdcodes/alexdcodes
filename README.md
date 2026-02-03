@@ -13,9 +13,6 @@ Site Reliability Engineer/Cloud/Development Operations
 
 ![](https://camo.githubusercontent.com/663bc65cb49fc1c720c9ef4638c7b5a380864b2f9a2b2e32824cfc1ba90ae881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e7369626c652d2532333141313931382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e7369626c65266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/4dae474904a8c58fd1de6463cfa4692a7ef04064d976e5d6bbbee33131471da2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/800bad6e848cfe326ea2f1606bc3e7ab04aff9c1008e73c48b39a34a156c7f92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) ![](https://camo.githubusercontent.com/2c90f0daa6d16880f300c463d62949a8d2ea3461f9708e93e46a54da5a649c9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)<img width="120" height="40" alt="image" src="https://github.com/user-attachments/assets/413b9a94-940f-428a-8103-74869d118131" />
 
-
-if you found this page, i do not know what error code to provide, maybe HTTP 360.  
-
 - I love learning about everything the world has to offer. Listening 2 all kinds of music, playing around with sound. When free i love to train german shepherds, 
 rottweilers, belgium malinos and dobermans..( IPO/IGP Training, my german shepard had IPO3 which in laymans terms is: the highest level of protection, obediance and tracking)
 - Saving up for a large fish tank so i can import Piranha's and exotic sharks (not together). 
