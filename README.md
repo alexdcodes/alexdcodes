@@ -1,7 +1,7 @@
 <img width="140" height="100" alt="See you here, somewhere on a BBS" src="https://github.com/user-attachments/assets/b3c0ad2e-b281-48ab-a341-48b20dd18476" />
 <meta name="fediverse:creator" content="@diker@mstdn.ca">
 
-![](https://komarev.com/ghpvc/?username=alexdcodes)
+![](https://komarev.com/ghpvc/?username=alexdcodes)woah more about me than a dating profile...
 <br></br>
 <b>Alex Diker</b>  
 Site Reliability Engineer/Cloud/Development Operations 
@@ -15,7 +15,7 @@ Site Reliability Engineer/Cloud/Development Operations
 
 - I love learning about everything the world has to offer. Listening to every single genre i can get my ears on (.mp3). When free i love to train german shepherds, 
 rottweilers, belgium malinos and dobermans..( IPO/IGP Training, my german shepard had IPO3 which in laymans terms is: the highest level of protection, obediance and tracking)
-- Saving up for a large fish tank so i can import Piranha's and exotic sharks (not together). 
+- Saving up for a large fish tank so i can import piranha's and exotic sharks.  
 - I speak English , Russian and Ukranian (first generation Canadian - parents immigrated from kiev and donetske).
 - Dealing with absurtity && the existential view of life while typing all the time in between.
 - Inspiring people to use open source software & tinker with cybersec. 
