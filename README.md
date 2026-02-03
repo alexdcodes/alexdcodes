@@ -21,7 +21,7 @@ rottweilers, belgium malinos and dobermans..( IPO3 Training, protection, obedian
 - Inspiring people to use open source software & tinker with cybersec. 
 - I am currently living in the terminal, feel free to pipe me to /usr/bin with a cronjob, or add me to .bashrc, to keep me running with a top secret alias. adds mystery..names are boring.  
 - Used to be a Red Star OS Kernel Developer but Kim and I had a falling out like Eminem....
-- Currently the only DOS Box i use is: Windows 3.1 for Microsoft Encarta. It was the only useful floppy i had except for Reader Rabbit & Wolfenstein. If the internet keeps developing and the cloud of things becomes big, Windows 3.1 can become a father clock in my house. I love telling people they can use the email on that machine, pfft who needs improved Dial-Up Networking.  
+- Currently the only DOS Box i use is: Windows 3.1 for Microsoft Encarta. It was the only useful floppy i had except for Reader Rabbit & Wolfenstein. If the internet keeps developing and the cloud of things becomes big, Windows 3.1 can become a father clock in my house. I love telling people they can use the email on that machine, pfft who needs improved Dial-Up Networking, as I always say..  
 - Contact me if you want to work on anything related to OS/Cloud security, debugging & SaaS hosting
 ..
 ![baybi](https://github.com/alexdcodes/alexdcodes/assets/23444429/9c65dd66-72c7-4bc0-a7f9-19a5aa27370c)
