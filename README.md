@@ -21,7 +21,7 @@ rottweilers, belgium malinos and dobermans..( IPO3 Training, protection, obedian
 - Inspiring people to use open source software & tinker with cybersec. 
 - I am currently living in the terminal, feel free to pipe me to /usr/bin with a cronjob, or add me to .bashrc, to keep me running with a top secret alias. adds mystery..names are boring.  
 - Used to be a Red Star OS Kernel Developer but Kim and I had a falling out like Eminem....
-- Currently using Windows 3.1 (the best operating system aside from Linux/GNU just becaue of the floppy games, I do not need the internet, all my dialup packets go to chatgpt.  
+- Currently the only DOS Box i use is: Windows 3.1, only chatgpt beats Microsoft Encarta  
 - Contact me if you want to work on anything related to OS/Cloud security, debugging & SaaS hosting
 ..
 ![baybi](https://github.com/alexdcodes/alexdcodes/assets/23444429/9c65dd66-72c7-4bc0-a7f9-19a5aa27370c)
