@@ -17,7 +17,7 @@ if you found this page, i do not know what error code to provide, maybe 360? HTT
 - Speaking English , Russian and Ukranian.
 - Dealing with absurtity && the existential view of life while typing all the time in between.
 - Inspiring people to use open source software, develop things.
-- I am currently living in the terminal, feel free to pipe me to /usr/bin with a cronjob, or add me to .bashrc, to keep me running. 
+- I am currently living in the terminal, feel free to pipe me to /usr/bin with a cronjob, or add me to .bashrc, to keep me running with a top secret alias. adds mystery..names are boring.  
 - Used to be a Red Star OS Kernel Developer, but Kim and I had a falling out like Eminem. lol, i do like to make jokes about my self.
   
 - Contact me if you want to work on anything related to OS security and open source enviroments, k8s. 
