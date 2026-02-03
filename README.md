@@ -43,4 +43,9 @@ if you found this page, i do not know what error code to provide, maybe 360? HTT
 Alex Diker
 
 <a rel="me" href="https://mstdn.ca/@diker">Mastodon: @diker</a>
+<br></br>
+https://linktr.ee/alexdiker
+<br></br>
+https://buymeacoffee.com/alexdiker
+<br></br>
 https://linkedin.com/in/alexdiker
