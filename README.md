@@ -16,7 +16,7 @@ if you found this page, i do not know what error code to provide, maybe HTTP 360
 - I love learning about everything the world has to offer. Listening 2 all kinds of music, playing around with sound. When free i love to train german shepherds, 
 rottweilers, belgium malinos and dobermans..( IPO3 Training, protection, obediance and tracking)
 - Saving up for a large fish tank so i can import Piranha's and exotic sharks (not together). 
-- I speak English , Russian and Ukranian (first geneartion Canadian - parents are from kiev and donetske).
+- I speak English , Russian and Ukranian (first generation Canadian - parents immigrated from kiev and donetske).
 - Dealing with absurtity && the existential view of life while typing all the time in between.
 - Inspiring people to use open source software, develop things.
 - I am currently living in the terminal, feel free to pipe me to /usr/bin with a cronjob, or add me to .bashrc, to keep me running with a top secret alias. adds mystery..names are boring.  
