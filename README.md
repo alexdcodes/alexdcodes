@@ -13,8 +13,8 @@ Site Reliability Engineer/Cloud Management
 
 if you found this page, i do not know what error code to provide, maybe HTTP 360.  
 
-- I love, learning about new technologies, listening 2 all kinds of music, playing around with sound, used to train german shepherds, 
-rottweilers, belgium malinos and dobermans..( IPO3 Training )
+- I love learning about everything the world has to offer. Listening 2 all kinds of music, playing around with sound. When free i love to train german shepherds, 
+rottweilers, belgium malinos and dobermans..( IPO3 Training, protection, obediance and tracking)
 - Speaking English , Russian and Ukranian.
 - Dealing with absurtity && the existential view of life while typing all the time in between.
 - Inspiring people to use open source software, develop things.
