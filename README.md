@@ -1,7 +1,7 @@
 <img width="140" height="100" alt="See you here, somewhere on a BBS" src="https://github.com/user-attachments/assets/b3c0ad2e-b281-48ab-a341-48b20dd18476" />
 <meta name="fediverse:creator" content="@diker@mstdn.ca">
 
-![](https://komarev.com/ghpvc/?username=alexdcodes)woah more about me than a dating profile...
+![](https://komarev.com/ghpvc/?username=alexdcodes)
 <br></br>
 <b>Alex Diker</b>  
 Site Reliability Engineer/Cloud/Development Operations 
