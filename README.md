@@ -17,7 +17,7 @@ Site Reliability Engineer/Cloud/Development Operations
 if you found this page, i do not know what error code to provide, maybe HTTP 360.  
 
 - I love learning about everything the world has to offer. Listening 2 all kinds of music, playing around with sound. When free i love to train german shepherds, 
-rottweilers, belgium malinos and dobermans..( IPO3 Training, protection, obediance and tracking)
+rottweilers, belgium malinos and dobermans..( IPO/IGP Training, my german shepard had IPO3 which in laymans terms is: the highest level of protection, obediance and tracking)
 - Saving up for a large fish tank so i can import Piranha's and exotic sharks (not together). 
 - I speak English , Russian and Ukranian (first generation Canadian - parents immigrated from kiev and donetske).
 - Dealing with absurtity && the existential view of life while typing all the time in between.
